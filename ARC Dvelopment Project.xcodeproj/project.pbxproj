@@ -22,6 +22,7 @@
 		ACD889F522C9C3EE00C19AD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACD889F822C9C3EE00C19AD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACD889FA22C9C3EE00C19AD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACD88A0222C9C49500C19AD4 /* ARCDevelopment.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ARCDevelopment.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				ACD889EE22C9C3EB00C19AD4 /* AppDelegate.swift */,
 				ACD889F022C9C3EB00C19AD4 /* ViewController.swift */,
+				ACD88A0222C9C49500C19AD4 /* ARCDevelopment.playground */,
 				ACD889F222C9C3EB00C19AD4 /* Main.storyboard */,
 				ACD889F522C9C3EE00C19AD4 /* Assets.xcassets */,
 				ACD889F722C9C3EE00C19AD4 /* LaunchScreen.storyboard */,
